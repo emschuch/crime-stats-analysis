@@ -1,6 +1,6 @@
 # Analysis of Crime Data
 
-## Sources:
+## Sources
 
 Links to sources and documentation will go here...
 
@@ -10,4 +10,4 @@ This will include instructions on how to run...
 
 ## Results
 
-Results might go here, or on the indivicual README pages
+Results might go here, or link to the indivicual README pages
